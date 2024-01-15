@@ -1,4 +1,4 @@
-module onepiece
+module github.com/AWM-51/onepiece
 
 go 1.18
 
